@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{86C543D4-A714-7546-6F47-DFA2D4ABF847}</ProjectGuid>
+    <ProjectGuid>{A4DE81EE-3FD4-9A57-17D8-DF7F26821C50}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -716,43 +716,43 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{D898B934-A259-6F4A-1BDD-B18747FB7D59}</Project>
+      <Project>{2434CED9-E30D-6F8C-E6D7-B8B37AD201D9}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
     <ProjectReference Include="fps.UI.csproj">
-      <Project>{FF09440D-A292-3BF8-F473-D51B933204C4}</Project>
+      <Project>{B5B1F3B3-BC9A-F7F1-0F44-A80BC9D23151}</Project>
       <Name>fps.UI</Name>
     </ProjectReference>
     <ProjectReference Include="fps.Editor.csproj">
-      <Project>{15E3E315-FE36-6957-B9BC-57E0FF161A56}</Project>
+      <Project>{32A31D78-C940-672C-1201-960E79A1CD6B}</Project>
       <Name>fps.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="fps.AI.csproj">
-      <Project>{8092B528-3D5A-02A0-5018-268E903A3541}</Project>
+      <Project>{DAF7E746-E6C9-8344-F254-5D9F2F27A0E2}</Project>
       <Name>fps.AI</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Microgame.Tutorials.csproj">
-      <Project>{7CFABE85-5B06-F509-B9FB-FA0822D51D50}</Project>
+      <Project>{8F4BDFC5-E016-8444-775B-0BAF1F1FECE3}</Project>
       <Name>Unity.Microgame.Tutorials</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.FPS.Tutorials.csproj">
-      <Project>{4CC490FD-1E93-F4F3-7661-69D452F15D1D}</Project>
+      <Project>{BA43C561-E571-2614-24BB-D49D0CB2845B}</Project>
       <Name>Unity.FPS.Tutorials</Name>
     </ProjectReference>
     <ProjectReference Include="NavMeshComponents.csproj">
-      <Project>{BB933B4B-C31C-C238-3A0D-7FCC8C9DB138}</Project>
+      <Project>{49109ABA-132F-29CD-00D1-B9EEBBBF0DD7}</Project>
       <Name>NavMeshComponents</Name>
     </ProjectReference>
     <ProjectReference Include="NavMeshComponentsEditor.csproj">
-      <Project>{3BE5EEC0-97E0-E429-4065-49481ED90BDB}</Project>
+      <Project>{C490729B-E755-75AB-B4BC-1BAB32A000E0}</Project>
       <Name>NavMeshComponentsEditor</Name>
     </ProjectReference>
     <ProjectReference Include="fps.Game.csproj">
-      <Project>{9EB764CB-E702-7B95-39E8-5F9E928E25BC}</Project>
+      <Project>{C46C4AEF-EC23-07AA-C764-53BC31BDDEA6}</Project>
       <Name>fps.Game</Name>
     </ProjectReference>
     <ProjectReference Include="fps.Gameplay.csproj">
-      <Project>{F295E83F-AB8C-3C86-615D-90B26B7A25BF}</Project>
+      <Project>{B702D3A8-BBE4-C679-029B-F930EC53F606}</Project>
       <Name>fps.Gameplay</Name>
     </ProjectReference>
   </ItemGroup>

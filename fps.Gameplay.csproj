@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{F295E83F-AB8C-3C86-615D-90B26B7A25BF}</ProjectGuid>
+    <ProjectGuid>{B702D3A8-BBE4-C679-029B-F930EC53F606}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>fps.Gameplay</AssemblyName>
@@ -76,6 +76,7 @@
     <Compile Include="Assets\FPS\Scripts\Gameplay\Objectives\ObjectivePickupItem.cs" />
     <Compile Include="Assets\FPS\Scripts\Gameplay\PlayerCharacterController.cs" />
     <Compile Include="Assets\FPS\Scripts\Gameplay\ChargedWeaponEffectsHandler.cs" />
+    <Compile Include="Assets\FPS\Scripts\Gameplay\ArmorPickup.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\FPS\Scripts\Gameplay\fps.Gameplay.asmdef" />
@@ -670,7 +671,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="fps.Game.csproj">
-      <Project>{9EB764CB-E702-7B95-39E8-5F9E928E25BC}</Project>
+      <Project>{C46C4AEF-EC23-07AA-C764-53BC31BDDEA6}</Project>
       <Name>fps.Game</Name>
     </ProjectReference>
   </ItemGroup>

@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{8092B528-3D5A-02A0-5018-268E903A3541}</ProjectGuid>
+    <ProjectGuid>{DAF7E746-E6C9-8344-F254-5D9F2F27A0E2}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>fps.AI</AssemblyName>
@@ -658,7 +658,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="fps.Game.csproj">
-      <Project>{9EB764CB-E702-7B95-39E8-5F9E928E25BC}</Project>
+      <Project>{C46C4AEF-EC23-07AA-C764-53BC31BDDEA6}</Project>
       <Name>fps.Game</Name>
     </ProjectReference>
   </ItemGroup>

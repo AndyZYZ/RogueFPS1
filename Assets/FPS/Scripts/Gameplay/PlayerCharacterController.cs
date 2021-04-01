@@ -2,7 +2,6 @@
 using UnityEngine;
 using UnityEngine.Events;
 using System.Collections;
-
 namespace Unity.FPS.Gameplay
 {
     [RequireComponent(typeof(CharacterController), typeof(PlayerInputHandler), typeof(AudioSource))]
@@ -123,6 +122,7 @@ namespace Unity.FPS.Gameplay
         }
 
         Health m_Health;
+        Armor m_Armor;
         PlayerInputHandler m_InputHandler;
         CharacterController m_Controller;
         PlayerWeaponsManager m_WeaponsManager;

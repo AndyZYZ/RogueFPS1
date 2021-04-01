@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{9EB764CB-E702-7B95-39E8-5F9E928E25BC}</ProjectGuid>
+    <ProjectGuid>{C46C4AEF-EC23-07AA-C764-53BC31BDDEA6}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>fps.Game</AssemblyName>
@@ -59,6 +59,7 @@
     <Compile Include="Assets\FPS\Scripts\Game\TimedSelfDestruct.cs" />
     <Compile Include="Assets\FPS\Scripts\Game\MeshCombiner.cs" />
     <Compile Include="Assets\FPS\Scripts\Game\Events.cs" />
+    <Compile Include="Assets\FPS\Scripts\Game\Shared\Armor.cs" />
     <Compile Include="Assets\FPS\Scripts\Game\Managers\ObjectiveManager.cs" />
     <Compile Include="Assets\FPS\Scripts\Game\Shared\Objective.cs" />
     <Compile Include="Assets\FPS\Scripts\Game\Managers\ActorsManager.cs" />

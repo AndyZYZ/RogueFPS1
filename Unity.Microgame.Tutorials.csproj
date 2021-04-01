@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{7CFABE85-5B06-F509-B9FB-FA0822D51D50}</ProjectGuid>
+    <ProjectGuid>{8F4BDFC5-E016-8444-775B-0BAF1F1FECE3}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.Microgame.Tutorials</AssemblyName>
