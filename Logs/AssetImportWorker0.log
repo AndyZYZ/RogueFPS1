@@ -1220,3 +1220,1040 @@ Received Import Request.
 Start importing Assets/Prefabs/Pickup_Ammo.prefab using Guid(b6f49d7ed7df73c41b38b390536de401) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ae57728678e47ef860a7729f321b392') in 0.052121 seconds
   Import took 0.055644 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 2986.342103 seconds.
+  path: Assets/LevelGenerator/Demo
+  artifactKey: Guid(28644677acf824101bf9e6ea0704b556) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LevelGenerator/Demo using Guid(28644677acf824101bf9e6ea0704b556) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ca7815a53882f61dec857c9134032b2') in 0.008893 seconds
+  Import took 0.014192 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.754855 seconds.
+  path: Assets/LevelGenerator/Demo/Prefabs
+  artifactKey: Guid(4bca990343d0df44f8441f0181d8a011) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LevelGenerator/Demo/Prefabs using Guid(4bca990343d0df44f8441f0181d8a011) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c48e359373a9fad9ecd0de876e4a2396') in 0.007453 seconds
+  Import took 0.010351 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.082791 seconds.
+  path: Assets/LevelGenerator/Demo/Prefabs/Corridor1.prefab
+  artifactKey: Guid(c922fec10f3cea841860c7478e6c2899) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LevelGenerator/Demo/Prefabs/Corridor1.prefab using Guid(c922fec10f3cea841860c7478e6c2899) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '952e84588c229ec5efc4b01796c05764') in 0.099650 seconds
+  Import took 0.102302 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/LevelGenerator/Demo/Prefabs/TreasureRoom.prefab
+  artifactKey: Guid(c58a709c604a22c46859c04083cab5e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LevelGenerator/Demo/Prefabs/TreasureRoom.prefab using Guid(c58a709c604a22c46859c04083cab5e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55f05356a3bcad057e766b1d1af9b4bb') in 0.026820 seconds
+  Import took 0.029406 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/LevelGenerator/Demo/Prefabs/Corridor2.prefab
+  artifactKey: Guid(a53c3c7d7c7a455419092c05e890a804) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LevelGenerator/Demo/Prefabs/Corridor2.prefab using Guid(a53c3c7d7c7a455419092c05e890a804) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be2aceafe7f2ca53dc316c2a295a99f1') in 0.024412 seconds
+  Import took 0.027409 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/LevelGenerator/Demo/Prefabs/Room3.prefab
+  artifactKey: Guid(37397042b63958749882c7bff52d4dff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LevelGenerator/Demo/Prefabs/Room3.prefab using Guid(37397042b63958749882c7bff52d4dff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96153148248bb308b2b4828978abd3b1') in 0.031326 seconds
+  Import took 0.034284 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/LevelGenerator/Demo/Prefabs/Corridor2.prefab
+  artifactKey: Guid(a53c3c7d7c7a455419092c05e890a804) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LevelGenerator/Demo/Prefabs/Corridor2.prefab using Guid(a53c3c7d7c7a455419092c05e890a804) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be2aceafe7f2ca53dc316c2a295a99f1') in 0.015199 seconds
+  Import took 0.017656 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/LevelGenerator/Demo/Prefabs/Room1.prefab
+  artifactKey: Guid(64c7f013cfbb98d4cadca554e0dd0421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LevelGenerator/Demo/Prefabs/Room1.prefab using Guid(64c7f013cfbb98d4cadca554e0dd0421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73d490a31823e1a93e3a1ac982581482') in 0.022892 seconds
+  Import took 0.025576 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/LevelGenerator/Demo/Prefabs/Room4.prefab
+  artifactKey: Guid(e7a44541ce241984e80a6fcef0fc2acf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LevelGenerator/Demo/Prefabs/Room4.prefab using Guid(e7a44541ce241984e80a6fcef0fc2acf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f7d713595d3f87994bcd03994aefd7e') in 0.020953 seconds
+  Import took 0.023440 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/LevelGenerator/Demo/Prefabs/DeadEnd.prefab
+  artifactKey: Guid(1352c06b785da1a409b8f9feba639229) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LevelGenerator/Demo/Prefabs/DeadEnd.prefab using Guid(1352c06b785da1a409b8f9feba639229) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c26ed5a7a9138a33334b09251700040') in 0.028865 seconds
+  Import took 0.031269 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/LevelGenerator/Demo/Prefabs/SpawnRoom.prefab
+  artifactKey: Guid(ad9bc6b1afecaa146997ffac30d1df51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LevelGenerator/Demo/Prefabs/SpawnRoom.prefab using Guid(ad9bc6b1afecaa146997ffac30d1df51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d1057d16ccabbefefbae777b6c07de9') in 0.032219 seconds
+  Import took 0.034730 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/LevelGenerator/Demo/Prefabs/Room2.prefab
+  artifactKey: Guid(6e6dc0ffc40ca0c48994077da31731a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LevelGenerator/Demo/Prefabs/Room2.prefab using Guid(6e6dc0ffc40ca0c48994077da31731a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e05c6a26ee2913490b765ce136859e1b') in 0.020619 seconds
+  Import took 0.023057 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.696302 seconds.
+  path: Assets/LevelGenerator/Resources
+  artifactKey: Guid(53495fb1692b6394280fba27a4c3bd91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LevelGenerator/Resources using Guid(53495fb1692b6394280fba27a4c3bd91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ef5ccb9775cec82616502ad830c4f68') in 0.007447 seconds
+  Import took 0.010097 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.085274 seconds.
+  path: Assets/LevelGenerator/Resources/DeadEndTemplate.prefab
+  artifactKey: Guid(5d2498154370fe94cb97212abb81191e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LevelGenerator/Resources/DeadEndTemplate.prefab using Guid(5d2498154370fe94cb97212abb81191e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe261dbee4d1c31b9e9dd6c46359cabd') in 0.011259 seconds
+  Import took 0.014006 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/LevelGenerator/Resources/SectionTemplate.prefab
+  artifactKey: Guid(e47e58af08dfbde4f9b44b7ad8a1d69c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LevelGenerator/Resources/SectionTemplate.prefab using Guid(e47e58af08dfbde4f9b44b7ad8a1d69c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '187a2dcb7989ea1c96ae5924f4878422') in 0.008767 seconds
+  Import took 0.011333 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.562560 seconds.
+  path: Assets/LevelGenerator/Scripts
+  artifactKey: Guid(8925b1e5178e4e24293091e97ada0cfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LevelGenerator/Scripts using Guid(8925b1e5178e4e24293091e97ada0cfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb9bba7ca0554c7fc10d5ad36c64c359') in 0.007384 seconds
+  Import took 0.010124 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.556167 seconds.
+  path: Assets/LevelGenerator/Scripts/LevelGenerator.cs
+  artifactKey: Guid(6626a6e366a9c48a48525cde4050d0b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LevelGenerator/Scripts/LevelGenerator.cs using Guid(6626a6e366a9c48a48525cde4050d0b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66a05c37fcc6ce58c75ee537e2c0c1b7') in 0.006558 seconds
+  Import took 0.009383 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2859.785757 seconds.
+  path: Assets/Prefabs/EnemyPlatform.prefab
+  artifactKey: Guid(7890c268fee4a034cb03a0d5bd4a3610) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/EnemyPlatform.prefab using Guid(7890c268fee4a034cb03a0d5bd4a3610) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58d93aa0ea408d2bb9060b5a7c09514d') in 0.214515 seconds
+  Import took 0.221237 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.881017 seconds.
+  path: Assets/Prefabs/Corridor.prefab
+  artifactKey: Guid(7288cbb5234234641822c2c06433927d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Corridor.prefab using Guid(7288cbb5234234641822c2c06433927d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89b4ec096dc9ed9142281740f2950767') in 0.010757 seconds
+  Import took 0.013728 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010050 seconds.
+  path: Assets/Prefabs/Corridor.prefab
+  artifactKey: Guid(7288cbb5234234641822c2c06433927d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Corridor.prefab using Guid(7288cbb5234234641822c2c06433927d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89b4ec096dc9ed9142281740f2950767') in 0.006320 seconds
+  Import took 0.009348 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.166725 seconds.
+  path: Assets/Prefabs/Rooms
+  artifactKey: Guid(00f996c88346ee349b1e9ede66f537ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms using Guid(00f996c88346ee349b1e9ede66f537ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70d610a06a55bc905911ac71676661d0') in 0.007637 seconds
+  Import took 0.010177 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.093195 seconds.
+  path: Assets/FPS/Art/Materials/VFX/JetPackTrail.mat
+  artifactKey: Guid(b06de00127b56814e9454c2d7d9f139a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Art/Materials/VFX/JetPackTrail.mat using Guid(b06de00127b56814e9454c2d7d9f139a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80ee65561bdf66c53380b5b094b43918') in 0.058274 seconds
+  Import took 0.061717 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.813577 seconds.
+  path: Assets/Prefabs/StartRoom.prefab
+  artifactKey: Guid(033a4177fa180f249bcca3b0ceb3347f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/StartRoom.prefab using Guid(033a4177fa180f249bcca3b0ceb3347f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae0c4bfdfdcf59cb473a0357e2d46cae') in 0.040324 seconds
+  Import took 0.044401 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 90.289939 seconds.
+  path: Assets/Prefabs/Rooms/DeadEndTemplate(Clone).prefab
+  artifactKey: Guid(5ad859a4c049a9d4b948f2ade658f7c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/DeadEndTemplate(Clone).prefab using Guid(5ad859a4c049a9d4b948f2ade658f7c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbb3ccec7847584e9dfe2a439fb05090') in 0.010193 seconds
+  Import took 0.013450 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007558 seconds.
+  path: Assets/Prefabs/Rooms/DeadEndTemplate(Clone).prefab
+  artifactKey: Guid(5ad859a4c049a9d4b948f2ade658f7c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/DeadEndTemplate(Clone).prefab using Guid(5ad859a4c049a9d4b948f2ade658f7c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbb3ccec7847584e9dfe2a439fb05090') in 0.006115 seconds
+  Import took 0.009107 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003203 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at E:/unityPj/New Unity Project (9)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at E:/unityPj/New Unity Project (9)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[E:/unityPj/New Unity Project (9)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.105 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1761 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 171.1 MB.
+System memory in use after: 171.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2369.
+Total: 2.111200 ms (FindLiveObjects: 0.193200 ms CreateObjectMapping: 0.059100 ms MarkObjects: 1.823000 ms  DeleteObjects: 0.035100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 100.571651 seconds.
+  path: Assets/Prefabs/Rooms/StartRoom.prefab
+  artifactKey: Guid(033a4177fa180f249bcca3b0ceb3347f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/StartRoom.prefab using Guid(033a4177fa180f249bcca3b0ceb3347f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '840c9953a28c4d707b186de26bde3f27') in 0.059607 seconds
+  Import took 0.063197 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.370827 seconds.
+  path: Assets/Prefabs/Rooms/NavMesh-StartRoom.asset
+  artifactKey: Guid(aa1bb36a453fd7c43a81cfa77a0439f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/NavMesh-StartRoom.asset using Guid(aa1bb36a453fd7c43a81cfa77a0439f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c735631c5a613c4aed1cf96e45c76c7') in 0.008457 seconds
+  Import took 0.011548 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.217108 seconds.
+  path: Assets/Prefabs/Rooms/StartRoom.prefab
+  artifactKey: Guid(033a4177fa180f249bcca3b0ceb3347f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/StartRoom.prefab using Guid(033a4177fa180f249bcca3b0ceb3347f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd62a44b045931dae4f10ce55b22e5809') in 0.034478 seconds
+  Import took 0.038581 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.345597 seconds.
+  path: Assets/Prefabs/Rooms/EnemyPlatform.prefab
+  artifactKey: Guid(7890c268fee4a034cb03a0d5bd4a3610) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/EnemyPlatform.prefab using Guid(7890c268fee4a034cb03a0d5bd4a3610) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b85ce84c929ed510794ff2c2034cfafd') in 0.128812 seconds
+  Import took 0.135052 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.004470 seconds.
+  path: Assets/Prefabs/Rooms/NavMesh-EnemyPlatform.asset
+  artifactKey: Guid(c634ad6aef711e444b5ccce9fa0d8328) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/NavMesh-EnemyPlatform.asset using Guid(c634ad6aef711e444b5ccce9fa0d8328) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1792f1a1be6906df3e2999f7092393fb') in 0.007617 seconds
+  Import took 0.010839 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.099488 seconds.
+  path: Assets/Prefabs/Rooms/EnemyPlatform.prefab
+  artifactKey: Guid(7890c268fee4a034cb03a0d5bd4a3610) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/EnemyPlatform.prefab using Guid(7890c268fee4a034cb03a0d5bd4a3610) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30c41787a59808bc90aa9382a372eaba') in 0.097473 seconds
+  Import took 0.103852 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.701040 seconds.
+  path: Assets/Prefabs/Rooms/NavMesh-Corridor.asset
+  artifactKey: Guid(909b956bc5877b945b73cb5bede14d3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/NavMesh-Corridor.asset using Guid(909b956bc5877b945b73cb5bede14d3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94b66a2093f980982c54d3bfb1852e31') in 0.008810 seconds
+  Import took 0.012026 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.068301 seconds.
+  path: Assets/Prefabs/Rooms/Corridor.prefab
+  artifactKey: Guid(7288cbb5234234641822c2c06433927d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/Corridor.prefab using Guid(7288cbb5234234641822c2c06433927d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '045665f6d0793374b298077381499329') in 0.008208 seconds
+  Import took 0.011359 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003734 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at E:/unityPj/New Unity Project (9)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at E:/unityPj/New Unity Project (9)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[E:/unityPj/New Unity Project (9)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.935 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1761 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 171.1 MB.
+System memory in use after: 171.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2373.
+Total: 1.913500 ms (FindLiveObjects: 0.154200 ms CreateObjectMapping: 0.053800 ms MarkObjects: 1.689600 ms  DeleteObjects: 0.015300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 92.019999 seconds.
+  path: Assets/Prefabs/Rooms/StartRoom.prefab
+  artifactKey: Guid(033a4177fa180f249bcca3b0ceb3347f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/StartRoom.prefab using Guid(033a4177fa180f249bcca3b0ceb3347f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb293cc9838d347bc68821f26920d162') in 0.066077 seconds
+  Import took 0.070669 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.939726 seconds.
+  path: Assets/Prefabs/Rooms/StartRoom.prefab
+  artifactKey: Guid(033a4177fa180f249bcca3b0ceb3347f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/StartRoom.prefab using Guid(033a4177fa180f249bcca3b0ceb3347f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91a875ebd62ad080edc042f49746799e') in 0.008887 seconds
+  Import took 0.011601 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.840819 seconds.
+  path: Assets/FPS/Prefabs/Player.prefab
+  artifactKey: Guid(761cdc9e4e883334cbdcea062d0befa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/Player.prefab using Guid(761cdc9e4e883334cbdcea062d0befa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '257e9e949c04d1f387003817913c3804') in 0.031261 seconds
+  Import took 0.034942 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003133 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at E:/unityPj/New Unity Project (9)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at E:/unityPj/New Unity Project (9)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[E:/unityPj/New Unity Project (9)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.921 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1761 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 171.1 MB.
+System memory in use after: 171.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2376.
+Total: 1.961600 ms (FindLiveObjects: 0.210800 ms CreateObjectMapping: 0.055300 ms MarkObjects: 1.681400 ms  DeleteObjects: 0.013100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 312.508286 seconds.
+  path: Assets/Prefabs/Rooms/Corridor.prefab
+  artifactKey: Guid(7288cbb5234234641822c2c06433927d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/Corridor.prefab using Guid(7288cbb5234234641822c2c06433927d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81115f9dc1a1b54141f5125b284842b2') in 0.033524 seconds
+  Import took 0.038905 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.498559 seconds.
+  path: Assets/Prefabs/Rooms/DeadEndTemplate(Clone).prefab
+  artifactKey: Guid(5ad859a4c049a9d4b948f2ade658f7c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/DeadEndTemplate(Clone).prefab using Guid(5ad859a4c049a9d4b948f2ade658f7c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a560d382ecb45a0403cf15b945fe2851') in 0.010491 seconds
+  Import took 0.013493 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.951363 seconds.
+  path: Assets/Prefabs/Rooms/StartRoom.prefab
+  artifactKey: Guid(033a4177fa180f249bcca3b0ceb3347f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/StartRoom.prefab using Guid(033a4177fa180f249bcca3b0ceb3347f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da2e2f0665f9934ed269b093a7bd4e93') in 0.008557 seconds
+  Import took 0.011591 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.826521 seconds.
+  path: Assets/Prefabs/Rooms/EnemyPlatform.prefab
+  artifactKey: Guid(7890c268fee4a034cb03a0d5bd4a3610) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/EnemyPlatform.prefab using Guid(7890c268fee4a034cb03a0d5bd4a3610) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85a740b3adbbe1fef55b2db621acf6c8') in 0.141792 seconds
+  Import took 0.147976 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003311 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at E:/unityPj/New Unity Project (9)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at E:/unityPj/New Unity Project (9)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[E:/unityPj/New Unity Project (9)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.943 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1761 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 171.2 MB.
+System memory in use after: 171.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2380.
+Total: 1.952900 ms (FindLiveObjects: 0.238100 ms CreateObjectMapping: 0.064100 ms MarkObjects: 1.635600 ms  DeleteObjects: 0.014100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 185.270348 seconds.
+  path: Assets/Prefabs/Rooms/Corridor.prefab
+  artifactKey: Guid(7288cbb5234234641822c2c06433927d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/Corridor.prefab using Guid(7288cbb5234234641822c2c06433927d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '428c2e87a2eb79007d0772fbb404cdf8') in 0.030249 seconds
+  Import took 0.033707 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003765 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at E:/unityPj/New Unity Project (9)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at E:/unityPj/New Unity Project (9)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[E:/unityPj/New Unity Project (9)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.038 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1761 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 171.2 MB.
+System memory in use after: 171.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2383.
+Total: 2.203000 ms (FindLiveObjects: 0.196300 ms CreateObjectMapping: 0.086300 ms MarkObjects: 1.906700 ms  DeleteObjects: 0.012800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 45.576792 seconds.
+  path: Assets/Prefabs/Rooms/EnemyPlatform.prefab
+  artifactKey: Guid(7890c268fee4a034cb03a0d5bd4a3610) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/EnemyPlatform.prefab using Guid(7890c268fee4a034cb03a0d5bd4a3610) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '207c28a24eb1617040fb50715c48c7ed') in 0.178015 seconds
+  Import took 0.184824 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 81.953019 seconds.
+  path: Assets/LevelGenerator/Demo/Materials/Corridor.mat
+  artifactKey: Guid(7276bc4d40a71aa4f8e2617d6f7951f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LevelGenerator/Demo/Materials/Corridor.mat using Guid(7276bc4d40a71aa4f8e2617d6f7951f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37374e8f5abdca218afec39fefcfb01b') in 0.026543 seconds
+  Import took 0.029274 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/LevelGenerator/Demo/Materials/Treasure.mat
+  artifactKey: Guid(037a77155d4e0a6458405c713499919a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LevelGenerator/Demo/Materials/Treasure.mat using Guid(037a77155d4e0a6458405c713499919a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b1a0806d2db31d65d90e5a1983d214d') in 0.019784 seconds
+  Import took 0.022302 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/LevelGenerator/Demo/Materials/DeadEnd.mat
+  artifactKey: Guid(2d09418ff24d4f347bacc4b40f390146) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LevelGenerator/Demo/Materials/DeadEnd.mat using Guid(2d09418ff24d4f347bacc4b40f390146) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d4b460b2b2839db0789c3c9ea535087') in 0.025620 seconds
+  Import took 0.028338 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/LevelGenerator/Demo/Materials/Room.mat
+  artifactKey: Guid(9fc81f0940ad3f341909fbe85b76f31d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LevelGenerator/Demo/Materials/Room.mat using Guid(9fc81f0940ad3f341909fbe85b76f31d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a64aeaad22ed317eb3c73acd977d79bb') in 0.020033 seconds
+  Import took 0.022671 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/LevelGenerator/Demo/Materials/Spawn.mat
+  artifactKey: Guid(d755150d616ffdb479c5b7400d91c682) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LevelGenerator/Demo/Materials/Spawn.mat using Guid(d755150d616ffdb479c5b7400d91c682) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '117b674a85456ebfd3c2c8a0f30c556c') in 0.022962 seconds
+  Import took 0.025728 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003090 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at E:/unityPj/New Unity Project (9)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at E:/unityPj/New Unity Project (9)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[E:/unityPj/New Unity Project (9)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.911 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1761 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 171.2 MB.
+System memory in use after: 171.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2387.
+Total: 3.926300 ms (FindLiveObjects: 0.318000 ms CreateObjectMapping: 0.148500 ms MarkObjects: 3.434200 ms  DeleteObjects: 0.024100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 42.050640 seconds.
+  path: Assets/Prefabs/Rooms/EnemyPlatform.prefab
+  artifactKey: Guid(7890c268fee4a034cb03a0d5bd4a3610) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/EnemyPlatform.prefab using Guid(7890c268fee4a034cb03a0d5bd4a3610) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b93a8f288a15d827e258692efcf89f3') in 0.170621 seconds
+  Import took 0.177151 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003545 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at E:/unityPj/New Unity Project (9)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at E:/unityPj/New Unity Project (9)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[E:/unityPj/New Unity Project (9)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.936 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1761 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 171.3 MB.
+System memory in use after: 171.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2391.
+Total: 6.707700 ms (FindLiveObjects: 0.477000 ms CreateObjectMapping: 0.241600 ms MarkObjects: 5.931900 ms  DeleteObjects: 0.053600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 42.087341 seconds.
+  path: Assets/Prefabs/Rooms/Corridor.prefab
+  artifactKey: Guid(7288cbb5234234641822c2c06433927d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/Corridor.prefab using Guid(7288cbb5234234641822c2c06433927d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f06bd42726f65210f85f94b20637ae9') in 0.025725 seconds
+  Import took 0.028338 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.501950 seconds.
+  path: Assets/Prefabs/Rooms/EnemyPlatform.prefab
+  artifactKey: Guid(7890c268fee4a034cb03a0d5bd4a3610) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/EnemyPlatform.prefab using Guid(7890c268fee4a034cb03a0d5bd4a3610) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a490aaccefb1325e318fa2ef6fc688f1') in 0.136464 seconds
+  Import took 0.143368 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003399 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at E:/unityPj/New Unity Project (9)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at E:/unityPj/New Unity Project (9)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[E:/unityPj/New Unity Project (9)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.936 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1761 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 171.3 MB.
+System memory in use after: 171.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2395.
+Total: 2.172900 ms (FindLiveObjects: 0.365200 ms CreateObjectMapping: 0.085100 ms MarkObjects: 1.709100 ms  DeleteObjects: 0.012600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003179 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at E:/unityPj/New Unity Project (9)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at E:/unityPj/New Unity Project (9)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[E:/unityPj/New Unity Project (9)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.909 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1761 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 171.3 MB.
+System memory in use after: 171.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2398.
+Total: 2.019900 ms (FindLiveObjects: 0.161300 ms CreateObjectMapping: 0.058300 ms MarkObjects: 1.785500 ms  DeleteObjects: 0.013800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 672.106832 seconds.
+  path: Assets/FPS/Tutorials/AddEnemyBot/Add-Enemy-Bot-Walkthrough.asset
+  artifactKey: Guid(f1296c995c6fc4bcfac81bd7df3e5b18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Tutorials/AddEnemyBot/Add-Enemy-Bot-Walkthrough.asset using Guid(f1296c995c6fc4bcfac81bd7df3e5b18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aee5590399a3ad6c8464cc2c06b12478') in 0.709015 seconds
+  Import took 0.715015 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/FPS/Tutorials/AddEnemyBot/015.asset
+  artifactKey: Guid(db255913d0ab24aebab584a7e24d64be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Tutorials/AddEnemyBot/015.asset using Guid(db255913d0ab24aebab584a7e24d64be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ceebdd9a4af76a90418d275b14872be') in 0.079205 seconds
+  Import took 0.083988 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/FPS/Prefabs/Enemies/Enemy_HoverBot.prefab
+  artifactKey: Guid(25a1b0efadb966e44889fce712c8ff8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/Enemies/Enemy_HoverBot.prefab using Guid(25a1b0efadb966e44889fce712c8ff8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '515f5df202c0612f2ba144c14263b902') in 0.098096 seconds
+  Import took 0.102442 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/FPS/Prefabs/Enemies/Enemy_Turret.prefab
+  artifactKey: Guid(e29d43f43cc5d82499dd9926e01847d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/Enemies/Enemy_Turret.prefab using Guid(e29d43f43cc5d82499dd9926e01847d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19fd590f8024757126cbd5518c26d269') in 0.059144 seconds
+  Import took 0.063008 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 405.509501 seconds.
+  path: Assets/Prefabs/Rooms/PillarRoom.prefab
+  artifactKey: Guid(de846cd9cef435540879d86b181fed33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/PillarRoom.prefab using Guid(de846cd9cef435540879d86b181fed33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b31cc80a0fd35d6709473e2cb796ec1d') in 0.091863 seconds
+  Import took 0.097705 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003395 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at E:/unityPj/New Unity Project (9)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at E:/unityPj/New Unity Project (9)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[E:/unityPj/New Unity Project (9)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.968 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1761 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 171.4 MB.
+System memory in use after: 171.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2402.
+Total: 2.302100 ms (FindLiveObjects: 0.194100 ms CreateObjectMapping: 0.060000 ms MarkObjects: 2.033700 ms  DeleteObjects: 0.013400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 181.056776 seconds.
+  path: Assets/FPS/Tutorials/Playtest/04-Hierarchy-Intro.asset
+  artifactKey: Guid(e834ab372a0a84d8f9a186ab06e88144) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Tutorials/Playtest/04-Hierarchy-Intro.asset using Guid(e834ab372a0a84d8f9a186ab06e88144) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e75d3c297e19f89d8d2ad5b60ed8fa31') in 0.037959 seconds
+  Import took 0.041225 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/ModAssets/Materials/BillboardMaterials/Billboard Content.mat
+  artifactKey: Guid(ba793090d6ae148e9a8a50996460f4f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModAssets/Materials/BillboardMaterials/Billboard Content.mat using Guid(ba793090d6ae148e9a8a50996460f4f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '715e196521cce4dc77f158c9e05b117f') in 0.066439 seconds
+  Import took 0.069445 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/ModAssets/Models/BillboardMeshes/billboard_3D_basic.fbx
+  artifactKey: Guid(ad9c1e36fab414677bc655cab88a1b71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModAssets/Models/BillboardMeshes/billboard_3D_basic.fbx using Guid(ad9c1e36fab414677bc655cab88a1b71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d149f590b7505c76ec308cea6c43522') in 0.056447 seconds
+  Import took 0.059360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/ModAssets/Fonts/CormorantUnicase-Regular SDF.asset
+  artifactKey: Guid(ba62bccd3bc0142bc9a0bc1addeaadce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModAssets/Fonts/CormorantUnicase-Regular SDF.asset using Guid(ba62bccd3bc0142bc9a0bc1addeaadce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76697028a3be1e3c4ba485e401ce2803') in 0.052435 seconds
+  Import took 0.055087 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/ModAssets/Materials/BillboardMaterials/Billboard Frame.mat
+  artifactKey: Guid(190c04ee61aaa410e8650f7fc1ce7f41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModAssets/Materials/BillboardMaterials/Billboard Frame.mat using Guid(190c04ee61aaa410e8650f7fc1ce7f41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd993dc43001f6cf58b766c77e4bd1b5f') in 0.023708 seconds
+  Import took 0.026182 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000462 seconds.
+  path: Assets/ModAssets/Prefabs/BillboardPrefabs/BillboardBasic.prefab
+  artifactKey: Guid(441945e8a4aa644b3ac6600c6712f79c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModAssets/Prefabs/BillboardPrefabs/BillboardBasic.prefab using Guid(441945e8a4aa644b3ac6600c6712f79c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd347b218b2f3e7b20eced34ed2fb6e34') in 0.023802 seconds
+  Import took 0.026833 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000444 seconds.
+  path: Assets/ModAssets/Models/AncientProps/Archway.fbx
+  artifactKey: Guid(8845e58e723a048699e6cf81997a1af0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModAssets/Models/AncientProps/Archway.fbx using Guid(8845e58e723a048699e6cf81997a1af0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37d0ce3052334793c5b90db1f45ab958') in 0.039535 seconds
+  Import took 0.042966 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/FPS/Art/Textures/VFX/Flare.png
+  artifactKey: Guid(96d321edfc568ad449969ea822b74151) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Art/Textures/VFX/Flare.png using Guid(96d321edfc568ad449969ea822b74151) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3df9f7ef3560dad45dc01574bcb9048') in 0.022456 seconds
+  Import took 0.025127 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/ModAssets/Models/BillboardMeshes/billboard_3D_tall.fbx
+  artifactKey: Guid(ae9da133c804d4fd8b985969f814bfdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModAssets/Models/BillboardMeshes/billboard_3D_tall.fbx using Guid(ae9da133c804d4fd8b985969f814bfdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd07a3f9ab6835ba1efdc1746b6b4e395') in 0.045167 seconds
+  Import took 0.047730 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/ModAssets/Models/Totems/Altar.prefab
+  artifactKey: Guid(9fdc68ab5a8b18c4a80ce37254a88b2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModAssets/Models/Totems/Altar.prefab using Guid(9fdc68ab5a8b18c4a80ce37254a88b2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a530285dd8363908e8bede227b2e0c8d') in 0.102632 seconds
+  Import took 0.105260 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/ModAssets/Fonts/DancingScript-Regular SDF.asset
+  artifactKey: Guid(7b50419dd5d254755b7929b05d413472) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModAssets/Fonts/DancingScript-Regular SDF.asset using Guid(7b50419dd5d254755b7929b05d413472) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'def05a44a75a71b5d2611aa17a7e6ae5') in 0.029416 seconds
+  Import took 0.031888 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/FPS/Art/Materials/VFX/ExclamationMark.mat
+  artifactKey: Guid(a0c4a8e5c3d13f04e8e43d7cb33d1ea4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Art/Materials/VFX/ExclamationMark.mat using Guid(a0c4a8e5c3d13f04e8e43d7cb33d1ea4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '278ce7978e4d2afed7ad407b6db556d3') in 0.020141 seconds
+  Import took 0.022707 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/ModAssets/Fonts/Bangers-Regular SDF.asset
+  artifactKey: Guid(0e141b3397d234c8685509c5d77ebcf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModAssets/Fonts/Bangers-Regular SDF.asset using Guid(0e141b3397d234c8685509c5d77ebcf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14d51c6e6136b50032064a4019ee79ba') in 0.031324 seconds
+  Import took 0.033925 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/ModAssets/Prefabs/BillboardPrefabs/BillboardTall.prefab
+  artifactKey: Guid(eb2165edd3e7844999a55b305c92b541) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModAssets/Prefabs/BillboardPrefabs/BillboardTall.prefab using Guid(eb2165edd3e7844999a55b305c92b541) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b59836e968f5b3cb49d2d1eb47699639') in 0.024271 seconds
+  Import took 0.026770 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/ModAssets/Fonts/Bangers-Regular SDF.asset
+  artifactKey: Guid(0e141b3397d234c8685509c5d77ebcf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModAssets/Fonts/Bangers-Regular SDF.asset using Guid(0e141b3397d234c8685509c5d77ebcf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14d51c6e6136b50032064a4019ee79ba') in 0.028586 seconds
+  Import took 0.031219 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/ModAssets/Prefabs/BillboardPrefabs/BillboardTall.prefab
+  artifactKey: Guid(eb2165edd3e7844999a55b305c92b541) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModAssets/Prefabs/BillboardPrefabs/BillboardTall.prefab using Guid(eb2165edd3e7844999a55b305c92b541) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b59836e968f5b3cb49d2d1eb47699639') in 0.015317 seconds
+  Import took 0.017938 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/ModAssets/Prefabs/BillboardPrefabs/BillboardWide.prefab
+  artifactKey: Guid(87a6cea72ce7247a2814467dab442418) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModAssets/Prefabs/BillboardPrefabs/BillboardWide.prefab using Guid(87a6cea72ce7247a2814467dab442418) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '468eef018789d8812e3f200decb32637') in 0.022253 seconds
+  Import took 0.024911 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.590537 seconds.
+  path: Assets/FPS/Prefabs/Enemies/Enemy_HoverBot.prefab
+  artifactKey: Guid(25a1b0efadb966e44889fce712c8ff8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/Enemies/Enemy_HoverBot.prefab using Guid(25a1b0efadb966e44889fce712c8ff8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45e39ced632682962f4212575cdd7a71') in 0.089656 seconds
+  Import took 0.094343 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.581150 seconds.
+  path: Assets/FPS/Prefabs/Enemies/Enemy_HoverBot.prefab
+  artifactKey: Guid(25a1b0efadb966e44889fce712c8ff8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/Enemies/Enemy_HoverBot.prefab using Guid(25a1b0efadb966e44889fce712c8ff8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d4adcf9d4ab2201ea170b183c5113ea') in 0.062883 seconds
+  Import took 0.067610 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003251 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at E:/unityPj/New Unity Project (9)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at E:/unityPj/New Unity Project (9)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[E:/unityPj/New Unity Project (9)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.949 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1761 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 171.4 MB.
+System memory in use after: 171.5 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2407.
+Total: 1.971200 ms (FindLiveObjects: 0.170700 ms CreateObjectMapping: 0.064700 ms MarkObjects: 1.718600 ms  DeleteObjects: 0.016400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 209.503216 seconds.
+  path: Assets/Prefabs/Rooms/EnemyPlatform.prefab
+  artifactKey: Guid(7890c268fee4a034cb03a0d5bd4a3610) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/EnemyPlatform.prefab using Guid(7890c268fee4a034cb03a0d5bd4a3610) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28b40e9fcd6922b0e040d1b47b56c9f0') in 0.155229 seconds
+  Import took 0.162442 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Prefabs/Rooms/PillarRoom.prefab
+  artifactKey: Guid(de846cd9cef435540879d86b181fed33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/PillarRoom.prefab using Guid(de846cd9cef435540879d86b181fed33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '705d27ac6f603e7fe449a89f1e17fdb7') in 0.082107 seconds
+  Import took 0.087507 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.935013 seconds.
+  path: Assets/Prefabs/Rooms/StartRoom.prefab
+  artifactKey: Guid(033a4177fa180f249bcca3b0ceb3347f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/StartRoom.prefab using Guid(033a4177fa180f249bcca3b0ceb3347f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31e3896b70b14c176e3b3229b6232acd') in 0.009380 seconds
+  Import took 0.012211 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009325 seconds.
+  path: Assets/Prefabs/Rooms/StartRoom.prefab
+  artifactKey: Guid(033a4177fa180f249bcca3b0ceb3347f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/StartRoom.prefab using Guid(033a4177fa180f249bcca3b0ceb3347f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31e3896b70b14c176e3b3229b6232acd') in 0.009261 seconds
+  Import took 0.012363 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.553244 seconds.
+  path: Assets/Prefabs/Rooms/EnemyPlatform.prefab
+  artifactKey: Guid(7890c268fee4a034cb03a0d5bd4a3610) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/EnemyPlatform.prefab using Guid(7890c268fee4a034cb03a0d5bd4a3610) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ec7ea5ff6fbd0ae857f3bb5472d4153') in 0.101685 seconds
+  Import took 0.108162 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.820788 seconds.
+  path: Assets/Prefabs/Rooms/EnemyPlatform.prefab
+  artifactKey: Guid(7890c268fee4a034cb03a0d5bd4a3610) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/EnemyPlatform.prefab using Guid(7890c268fee4a034cb03a0d5bd4a3610) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '888874281d2f5929796313dd40205eed') in 0.098284 seconds
+  Import took 0.105336 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003625 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at E:/unityPj/New Unity Project (9)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at E:/unityPj/New Unity Project (9)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[E:/unityPj/New Unity Project (9)/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.932 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1761 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 171.5 MB.
+System memory in use after: 171.6 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2411.
+Total: 1.959800 ms (FindLiveObjects: 0.184100 ms CreateObjectMapping: 0.065400 ms MarkObjects: 1.695300 ms  DeleteObjects: 0.014100 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

@@ -66,6 +66,7 @@ GameObject:
   - component: {fileID: 7406548990343174644}
   - component: {fileID: 6449686686394465367}
   - component: {fileID: 797398738606809810}
+  - component: {fileID: 5879010345734786436}
   - component: {fileID: 1614318205656627459}
   m_Layer: 0
   m_Name: Enemy_HoverBot
@@ -265,6 +266,19 @@ MonoBehaviour:
   CompassMarkerPrefab: {fileID: 4125838790012652590, guid: 513785daf84f2a243b0cda079e6835cd,
     type: 3}
   TextDirection: 
+--- !u!114 &5879010345734786436
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2015434656898269652}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0978b38d343f5fd40b898924a09da7e8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  MaxArmor: 0
 --- !u!82 &1614318205656627459
 AudioSource:
   m_ObjectHideFlags: 0
@@ -538,6 +552,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   DamageMultiplier: 1
+  DamageArmorMultiplier: 0.5
   SensibilityToSelfdamage: 0.5
 --- !u!1 &7448957880145452174
 GameObject:

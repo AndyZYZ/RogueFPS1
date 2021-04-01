@@ -59,6 +59,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   DamageMultiplier: 1
+  DamageArmorMultiplier: 0.5
   SensibilityToSelfdamage: 0.5
 --- !u!65 &9194442102086525668
 BoxCollider:
@@ -162,6 +163,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   DamageMultiplier: 1
+  DamageArmorMultiplier: 0.5
   SensibilityToSelfdamage: 0.5
 --- !u!1 &2015434656898269652
 GameObject:
@@ -172,6 +174,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2015434656898269656}
+  - component: {fileID: 2890997796726450342}
   - component: {fileID: 9087143436424816424}
   - component: {fileID: 6370966072896210225}
   - component: {fileID: 3464315327790461765}
@@ -203,6 +206,19 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2890997796726450342
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2015434656898269652}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0978b38d343f5fd40b898924a09da7e8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  MaxArmor: 0
 --- !u!114 &9087143436424816424
 MonoBehaviour:
   m_ObjectHideFlags: 0
